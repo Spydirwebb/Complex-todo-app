@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/complex-todo-app/static/css/main.a646f557.chunk.css",
+    "main.js": "/complex-todo-app/static/js/main.5602df3a.chunk.js",
+    "main.js.map": "/complex-todo-app/static/js/main.5602df3a.chunk.js.map",
+    "runtime-main.js": "/complex-todo-app/static/js/runtime-main.39d968b2.js",
+    "runtime-main.js.map": "/complex-todo-app/static/js/runtime-main.39d968b2.js.map",
+    "static/js/2.c61d28d7.chunk.js": "/complex-todo-app/static/js/2.c61d28d7.chunk.js",
+    "static/js/2.c61d28d7.chunk.js.map": "/complex-todo-app/static/js/2.c61d28d7.chunk.js.map",
+    "static/js/3.58e786d2.chunk.js": "/complex-todo-app/static/js/3.58e786d2.chunk.js",
+    "static/js/3.58e786d2.chunk.js.map": "/complex-todo-app/static/js/3.58e786d2.chunk.js.map",
+    "index.html": "/complex-todo-app/index.html",
+    "static/css/main.a646f557.chunk.css.map": "/complex-todo-app/static/css/main.a646f557.chunk.css.map",
+    "static/js/2.c61d28d7.chunk.js.LICENSE.txt": "/complex-todo-app/static/js/2.c61d28d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39d968b2.js",
+    "static/js/2.c61d28d7.chunk.js",
+    "static/css/main.a646f557.chunk.css",
+    "static/js/main.5602df3a.chunk.js"
+  ]
+}
